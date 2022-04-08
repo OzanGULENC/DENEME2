@@ -5,6 +5,7 @@ public class Asdfg {
         System.out.println(" Ozan gulenc");
 
         System.out.println("Selamınaleyküm");
+        System.out.println("merhaba");
 
     }
 }
